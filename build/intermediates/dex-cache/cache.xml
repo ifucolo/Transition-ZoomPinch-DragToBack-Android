@@ -3,129 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/nodo/.android/build-cache/411fd99cc57f2ec90939a2ad145754da7f9c9c41/output/jars/classes.jar"
+        jar="/Users/nodo/Desktop/Zoom/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/nodo/Desktop/projetos/Holonis/ZoomPinch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_773e9ad04cbcae864927bb53f4ce5531c54107d9/classes.dex" />
+        sha1="71ca7a43419741aeecd85e5e46bfcdbebecfc8da">
+        <dex dex="/Users/nodo/Desktop/Zoom/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f841c03ebf198f83239fe406ca05544b27b9e2a4/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/nodo/.android/build-cache/481ccc86b35859d155bceb907ec73fb4dcb73974/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="/Users/nodo/Desktop/projetos/Holonis/ZoomPinch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a53ad7dd0c071a5f40c8d17e9dd905b4aa115876/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nodo/.android/build-cache/f2e64c13cc4e1948f7f01e1e6b4c29495f4b91a7/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
-        <dex dex="/Users/nodo/Desktop/projetos/Holonis/ZoomPinch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0a4e1ef641e1a7c73c96fad7746c3015f993b75/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nodo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
-        <dex dex="/Users/nodo/Desktop/projetos/Holonis/ZoomPinch/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_268547e75e820d094ce2e30ce2879c9c26a77f00/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nodo/Desktop/projetos/Holonis/ZoomPinch/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/nodo/Desktop/Zoom/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="2fbdfef027f19939820542e6080e06ad9c1f8d21">
-        <dex dex="/Users/nodo/Desktop/projetos/Holonis/ZoomPinch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7e09011c3aea47ecc0355c275426309cf7f05996/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nodo/.android/build-cache/daf073a03afeb776ec51a1b159806b07d9dbbbb3/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
-        <dex dex="/Users/nodo/Desktop/projetos/Holonis/ZoomPinch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65f4d506d0c82041fa06733d3fd2c6c0edf22678/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nodo/.android/build-cache/571c4ac3ecd2e57634a2ace649640dfe05839336/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="/Users/nodo/Desktop/projetos/Holonis/ZoomPinch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_126544619c51020ec0fb5bb28b018efa328b9b13/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nodo/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
-        <dex dex="/Users/nodo/Desktop/projetos/Holonis/ZoomPinch/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.5.1_c1547231681364dae0d14e214192f979d5eb10f3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nodo/.android/build-cache/687b6aaef5e8e6882ac9a5aff6fb7d059fe66bf0/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="/Users/nodo/Desktop/projetos/Holonis/ZoomPinch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_800f272c3fcb3fe59ba876271c16ad74ce880fc1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nodo/.android/build-cache/dd64c82d7b9086a8c0759edff167f1e219b2e117/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="/Users/nodo/Desktop/projetos/Holonis/ZoomPinch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e7e787cc33546baf31e972a2f32baf24797e5dd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nodo/.android/build-cache/502ff749bc87e449fea272a66c63be4d6dabbf01/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="/Users/nodo/Desktop/projetos/Holonis/ZoomPinch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0476061a6285cb7f956016f696d17da418b6ca12/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nodo/.android/build-cache/bd7a1aa40eb2555185c434abba9850fad5f12f4c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
-        <dex dex="/Users/nodo/Desktop/projetos/Holonis/ZoomPinch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a125c17b37989deaa9d56a2a0bc745ca00d23ff2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nodo/Desktop/projetos/Holonis/ZoomPinch/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7a555909d089c08b48321c14be4d2b256bceb142">
-        <dex dex="/Users/nodo/Desktop/projetos/Holonis/ZoomPinch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_03ea349a7eb2334d0e92a2d2bd56929a75495ccf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nodo/.android/build-cache/d841c7b09154ee62bdbfdb964d62997dd5ec556e/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
-        <dex dex="/Users/nodo/Desktop/projetos/Holonis/ZoomPinch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec036e5d83b093bf692297841cd4debb440bfc28/classes.dex" />
+        <dex dex="/Users/nodo/Desktop/Zoom/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_406df40f24adada35136def67f40c37398b94401/classes.dex" />
     </item>
 
 </items>
