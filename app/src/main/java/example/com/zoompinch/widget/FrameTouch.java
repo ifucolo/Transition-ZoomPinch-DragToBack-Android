@@ -8,9 +8,6 @@ import android.view.MotionEvent;
 import android.view.ScaleGestureDetector;
 import android.widget.FrameLayout;
 
-/**
- * Created by nodo on 2/21/17.
- */
 
 public class FrameTouch extends FrameLayout implements ScaleGestureDetector.OnScaleGestureListener {
 

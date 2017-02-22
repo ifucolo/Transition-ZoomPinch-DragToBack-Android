@@ -7,3 +7,6 @@
 /build
 /captures
 .externalNativeBuild
+
+# Local configuration file (sdk path, etc)
+local.properties

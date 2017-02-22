@@ -19,7 +19,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity.ZoomPichActivity"/>
+
+        <activity android:name=".activity.ZoomPichActivity"
+            android:theme="@style/AppTheme.TransAll"/>
     </application>
 
 </manifest>
