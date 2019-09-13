@@ -2,4 +2,7 @@
     <string name="app_name">Zoom Pinch</string>
     <string name="img_url">https://cdn.pixabay.com/photo/2017/02/06/12/34/reptile-2042906_960_720.jpg</string>
     <string name="transition">transition</string>
+
+    <string name="without_pinch_glide">Without third Libs</string>
+    <string name="with_pinch_glide">With Glide and PhotoView</string>
 </resources>

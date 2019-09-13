@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="example.com.zoompinch">
+    package="example.com.dragbackzoompinchglide">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -12,7 +12,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".activity.MainActivity">
+        <activity android:name="example.com.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -20,8 +20,15 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".activity.ZoomPichActivity"
+        <activity android:name="example.com.dragbackzoompinchglide.activity.ZoomPinchGlideEndActivity"
             android:theme="@style/AppTheme.TransAll"/>
+
+        <activity android:name="example.com.dragbackzoompinchglide.activity.ZoomPinchGlideStartActivity"/>
+
+        <activity android:name="example.com.dragback.activity.DragBackEndActivity"
+            android:theme="@style/AppTheme.TransAll"/>
+
+        <activity android:name="example.com.dragback.activity.DragBackStartActivity"/>
     </application>
 
 </manifest>
