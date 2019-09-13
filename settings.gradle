@@ -1,1 +1,1 @@
-include ':app', ':imagedragback', ':imagedragbackzoompinchglide'
+include ':app', ':imagedragbackzoompinchglide'

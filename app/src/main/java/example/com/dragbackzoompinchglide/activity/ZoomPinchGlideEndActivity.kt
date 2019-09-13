@@ -6,7 +6,7 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.ifucolo.imagedragbackzoompinchglide.pinch.ImagePinBackEnd
 import example.com.dragbackzoompinchglide.R
-import kotlinx.android.synthetic.main.activity_drag_back_end.*
+import kotlinx.android.synthetic.main.activity_end.*
 
 class ZoomPinchGlideEndActivity : AppCompatActivity() {
 
@@ -16,7 +16,7 @@ class ZoomPinchGlideEndActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_drag_back_end)
+        setContentView(R.layout.activity_end)
 
         ImagePinBackEnd(
             activity = this,
