@@ -3,9 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Transition-ZoomPinch-DragToBack-Android.iml" filepath="$PROJECT_DIR$/Transition-ZoomPinch-DragToBack-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imagedragback/Transition-ZoomPinch-DragToBack-Android-imagedragback.iml" filepath="$PROJECT_DIR$/imagedragback/Transition-ZoomPinch-DragToBack-Android-imagedragback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-my-bootcamp-Transition-ZoomPinch-DragToBack-Android.iml" filepath="$PROJECT_DIR$/android-my-bootcamp-Transition-ZoomPinch-DragToBack-Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/imagedragback/imagedragback.iml" filepath="$PROJECT_DIR$/imagedragback/imagedragback.iml" />
       <module fileurl="file://$PROJECT_DIR$/imagedragbackzoompinchglide/imagedragbackzoompinchglide.iml" filepath="$PROJECT_DIR$/imagedragbackzoompinchglide/imagedragbackzoompinchglide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opensources-android-my-bootcamp-Transition-ZoomPinch-DragToBack-Android.iml" filepath="$PROJECT_DIR$/opensources-android-my-bootcamp-Transition-ZoomPinch-DragToBack-Android.iml" />
     </modules>
   </component>
 </project>
