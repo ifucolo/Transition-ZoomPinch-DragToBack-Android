@@ -1,7 +1,8 @@
 # Transition ZoomPinch DragToBack - Android
 Library to implement image transition between activities(soon Fragments) with drag to back.
 
-[Article Portuguese and old but gold](https://medium.com/android-dev-br/transi%C3%A7%C3%A3o-zoom-pinch-e-drag-to-back-de-imageview-f359556a1671)
+[Article in Portuguese and old but gold](https://medium.com/android-dev-br/transi%C3%A7%C3%A3o-zoom-pinch-e-drag-to-back-de-imageview-f359556a1671)
+[Article branch](https://github.com/ifucolo/Transition-ZoomPinch-DragToBack-Android/tree/old-version)
 
 ## Demo
 ![alt tag](https://github.com/ifucolo/ZoomPich-Android/blob/master/gif.gif)
@@ -11,7 +12,7 @@ Library to implement image transition between activities(soon Fragments) with dr
 
 ## Download
 
-##### Gradle:
+### Gradle:
 
 ```groovy
 dependencies {
@@ -29,7 +30,7 @@ allprojects {
 
 ## Usage
 
-##### Xml
+### Xml
 Add The **FrameTouch widget** on your destination **Activity** with the imageView inside:
 
 ```xml
@@ -51,7 +52,7 @@ Add The **FrameTouch widget** on your destination **Activity** with the imageVie
 </com.ifucolo.imagepinchback.widget.FrameTouch>
 ```
 
-##### Acitivity Start
+### Acitivity Start
 
 ```kotlin
   //Don`t forgot to load your image before this
@@ -64,7 +65,7 @@ Add The **FrameTouch widget** on your destination **Activity** with the imageVie
   )
 ```
 
-##### Acitivity Destination
+### Acitivity Destination
 ```kotlin
    val imageDragBackEnd = ImageDragBackEnd(
       activity = this,
