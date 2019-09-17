@@ -8,7 +8,7 @@ Library to implement image transition between activities(soon Fragments) with dr
 ![alt tag](https://github.com/ifucolo/ZoomPich-Android/blob/master/gif.gif)
 
 ## Full Example
-[sample](https://github.com/ifucolo/Transition-ZoomPinch-DragToBack-Android/tree/new-release/app) the example use [Glide](https://github.com/bumptech/glide) to load image but feel free to use another image load libraries.
+[Sample](https://github.com/ifucolo/Transition-ZoomPinch-DragToBack-Android/tree/new-release/app) the example use [Glide](https://github.com/bumptech/glide) to load image but feel free to use another image load libraries.
 
 ## Download
 
@@ -97,7 +97,7 @@ The library already handle the image click listener for you, but if you want to 
 
 ## License
 ```
-AHBottomNavigation library for Android
+Transition ZoomPinch DragToBack library for Android
 Copyright (c) 2018 Iago Fucolo (http://github.com/ifucolo).
 
 Licensed under the Apache License, Version 2.0 (the "License");
